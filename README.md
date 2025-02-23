@@ -1,3 +1,6 @@
+Copy code from [main.cpp](main.cpp) into a console app base in visual studio 2022 then compile.
+
+
 # HYPV Version Finder
 
 A lightweight memory scanner that automatically finds and extracts the HYPV version from RobloxPlayerBeta.exe while it's running. The tool works by scanning through all readable memory regions of the Roblox process, including read-only, read-write, and executable sections, to locate the HYPV signature and its associated version string.
